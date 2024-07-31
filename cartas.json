@@ -1,0 +1,218 @@
+[
+    {
+      "nombre": "El Gallo",
+      "imagen": "./assets/1loteria.jpg"
+    },
+    {
+      "nombre": "El Diablo",
+      "imagen": "./assets/2loteria.jpg"
+    },
+    {
+      "nombre": "La Dama",
+      "imagen": "./assets/3loteria.jpg"
+    },
+    {
+      "nombre": "El Catrín",
+      "imagen": "./assets/4loteria.jpg"
+    },
+    {
+      "nombre": "El Paraguas",
+      "imagen": "./assets/5loteria.jpg"
+    },
+    {
+      "nombre": "La Sirena",
+      "imagen": "./assets/6loteria.jpg"
+    },
+    {
+      "nombre": "La Escalera",
+      "imagen": "./assets/7loteria.jpg"
+    },
+    {
+      "nombre": "La Botella",
+      "imagen": "./assets/8loteria.jpg"
+    },
+    {
+      "nombre": "El Barril",
+      "imagen": "./assets/9loteria.jpg"
+    },
+    {
+      "nombre": "El Arbol",
+      "imagen": "./assets/10loteria.jpg"
+    },
+    {
+      "nombre": "El Melon",
+      "imagen": "./assets/11loteria.jpg"
+    },
+    {
+      "nombre": "El Valiente",
+      "imagen": "./assets/12loteria.jpg"
+    },
+    {
+      "nombre": "El Gorrito",
+      "imagen": "./assets/13loteria.jpg"
+    },
+    {
+      "nombre": "La Muerte",
+      "imagen": "./assets/14loteria.jpg"
+    },
+    {
+      "nombre": "La Pera",
+      "imagen": "./assets/15loteria.jpg"
+    },
+    {
+      "nombre": "La Bandera",
+      "imagen": "./assets/16loteria.jpg"
+    },
+    {
+      "nombre": "El Bandolon",
+      "imagen": "./assets/17loteria.jpg"
+    },
+    {
+      "nombre": "La Violoncello",
+      "imagen": "./assets/18loteria.jpg"
+    },
+    {
+      "nombre": "La Garza",
+      "imagen": "./assets/19loteria.jpg"
+    },
+    {
+      "nombre": "El Pajaro",
+      "imagen": "./assets/20loteria.jpg"
+    },
+    {
+      "nombre": "La Mano",
+      "imagen": "./assets/21loteria.jpg"
+    },
+    {
+      "nombre": "La Bota",
+      "imagen": "./assets/22loteria.jpg"
+    },
+    {
+      "nombre": "La Luna",
+      "imagen": "./assets/23loteria.jpg"
+    },
+    {
+      "nombre": "El cotorro",
+      "imagen": "./assets/24loteria.jpg"
+    },
+    {
+      "nombre": "El borracho",
+      "imagen": "./assets/25loteria.jpg"
+    },
+    {
+      "nombre": "El negrito",
+      "imagen": "./assets/26loteria.jpg"
+    },
+    {
+      "nombre": "El corazón",
+      "imagen": "./assets/27loteria.jpg"
+    },
+    {
+      "nombre": "La Sandía",
+      "imagen": "./assets/28loteria.jpg"
+    },
+    {
+      "nombre": "El Tambor",
+      "imagen": "./assets/29loteria.jpg"
+    },
+    {
+      "nombre": "El camaron",
+      "imagen": "./assets/30loteria.jpg"
+    },
+    {
+      "nombre": "Las Jaras",
+      "imagen": "./assets/31loteria.jpg"
+    },
+    {
+      "nombre": "El musico",
+      "imagen": "./assets/32loteria.jpg"
+    },
+    {
+      "nombre": "La araña",
+      "imagen": "./assets/33loteria.jpg"
+    },
+    {
+      "nombre": "El soldado",
+      "imagen": "./assets/34loteria.jpg"
+    },
+    {
+      "nombre": "La estrella",
+      "imagen": "./assets/35loteria.jpg"
+    },
+    {
+      "nombre": "El cazo",
+      "imagen": "./assets/36loteria.jpg"
+    },
+    {
+      "nombre": "El mundo",
+      "imagen": "./assets/37loteria.jpg"
+    },
+    {
+      "nombre": "El apache",
+      "imagen": "./assets/38loteria.jpg"
+    },
+    {
+      "nombre": "El nopal",
+      "imagen": "./assets/39loteria.jpg"
+    },
+    {
+      "nombre": "El Alacran",
+      "imagen": "./assets/40loteria.jpg"
+    },
+    {
+      "nombre": "La Rosa",
+      "imagen": "./assets/41loteria.jpg"
+    },
+    {
+      "nombre": "La Calavera",
+      "imagen": "./assets/42loteria.jpg"
+    },
+    {
+      "nombre": "La campana",
+      "imagen": "./assets/43loteria.jpg"
+    },
+    {
+      "nombre": "El cantarito",
+      "imagen": "./assets/44loteria.jpg"
+    },
+    {
+      "nombre": "El venado",
+      "imagen": "./assets/45loteria.jpg"
+    },
+    {
+      "nombre": "El sol",
+      "imagen": "./assets/46loteria.jpg"
+    },
+    {
+      "nombre": "La corona",
+      "imagen": "./assets/47loteria.jpg"
+    },
+    {
+      "nombre": "La chalupa",
+      "imagen": "./assets/48loteria.jpg"
+    },
+    {
+      "nombre": "El pino",
+      "imagen": "./assets/49loteria.jpg"
+    },
+    {
+      "nombre": "El pescado",
+      "imagen": "./assets/50loteria.jpg"
+    },
+    {
+      "nombre": "La palmera",
+      "imagen": "./assets/51loteria.jpg"
+    },
+    {
+      "nombre": "La maceta",
+      "imagen": "./assets/52loteria.jpg"
+    },
+    {
+      "nombre": "El arpa",
+      "imagen": "./assets/53loteria.jpg"
+    },
+    {
+      "nombre": "La rana",
+      "imagen": "./assets/54loteria.jpg"
+    }
+  ]  
